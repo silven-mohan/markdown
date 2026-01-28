@@ -33,3 +33,10 @@
 - [ ] Editors
 - [ ] Operating Systems
 - [ ] Computer Basics and Architecture.
+
+---
+
+### To convert an image or video from light mode to dark mode we can use [ffmpeg](https://www.ffmpeg.org) we can simply use the below command:
+```bash
+ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
+```
