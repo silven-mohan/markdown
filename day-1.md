@@ -26,3 +26,10 @@
 ---
 
 ##### * Computer Basics and Architecture.
+
+- [ ] Programming Languages
+- [ ] Scripting Languages
+- [x] Open-Source Tools
+- [ ] Editors
+- [ ] Operating Systems
+- [ ] Computer Basics and Architecture.
