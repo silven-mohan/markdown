@@ -1,5 +1,7 @@
 # Main Things to learn in Bachelor's of Technology in Computer Science Engineering:
 
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
 ## * Programming Languages
 ## * Scripting Languages
 
